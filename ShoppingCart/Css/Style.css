@@ -1,0 +1,78 @@
+.container{
+    margin: auto;
+    margin-top: 20px;
+    /* border: 3px solid black; */
+}
+.col-md-, .col-lg-4{
+    margin-bottom: 20px;
+}
+.sty{
+    font-size: 18px !important;
+    color: black !important;
+}
+.num{
+    width: 80px;
+    height: 30px;
+    border: 3px solid black;
+    border-radius: 5px;
+    font-size: 18px;
+    padding: 5px;
+}
+.uk-border-circle{
+    width: 100px !important;
+    height: 100px !important;
+}
+.fa-cart-arrow-down{
+    color: white;
+    font-size: 50px;
+    cursor: pointer;
+    padding-left: 20px;
+}
+img{
+    height: 200px;
+    width: 300px;
+}
+h1{
+    text-align: center;
+}
+/* .like-btn {
+ 
+    background: url('https://icon-library.com/images/favorite-heart-icon/favorite-heart-icon-12.jpg');
+    width: 60px;
+    height: 60px;
+    background-size: 2900%;
+    margin-left: 50%;
+}
+.is-active {
+    animation-name: animate;
+    animation-duration: .8s;
+    animation-iteration-count: 1;
+    animation-timing-function: steps(28);
+    animation-fill-mode: forwards;
+  }
+   
+  @keyframes animate {
+    0%   { background-position: left;  }
+    50%  { background-position: right; }
+    100% { background-position: right; }
+  }   */
+  footer {
+    background-color: 	black ;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    color: white;
+  
+    width: 100%;
+  
+    
+    
+}
+h2{
+    margin-top: 1%;
+    margin-left: 4%;
+    color: white;
+    align-items: center;
+
+}
